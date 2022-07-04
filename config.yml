@@ -1,7 +1,8 @@
 baseURL: 'http://charlotte-le.com/'
 languageCode: en-us
 title: Charlotte Le
-theme: PaperMod
+theme: papermod
+publishDir: docs
 
 paginate: 5
 

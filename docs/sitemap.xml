@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://charlotte-le.com/teaching/</loc>
-    <lastmod>2022-05-16T10:29:10-07:00</lastmod>
-  </url><url>
     <loc>http://charlotte-le.com/categories/</loc>
   </url><url>
     <loc>http://charlotte-le.com/</loc>
@@ -12,6 +9,8 @@
     <loc>http://charlotte-le.com/experience/</loc>
   </url><url>
     <loc>http://charlotte-le.com/projects/</loc>
+  </url><url>
+    <loc>http://charlotte-le.com/teaching/</loc>
   </url><url>
     <loc>http://charlotte-le.com/series/</loc>
   </url><url>

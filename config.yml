@@ -1,0 +1,105 @@
+baseURL: 'http://charlotte-le.com/'
+languageCode: en-us
+title: Charlotte Le
+theme: PaperMod
+
+paginate: 5
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        
+        menu:
+            main:
+                - name: Experience
+                  url: experience/
+                  weight: 5
+                - name: Teaching
+                  url: teaching/
+                  weight: 10
+                - name: Projects
+                  url: projects/
+                  weight: 15
+
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    disableThemeToggle: true
+    defaultTheme: light
+    ShowShareButtons: false
+    ShowReadingTime: false
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: false
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    # comments: false
+    images: ["papermod-cover.png"]
+
+    # profileMode:
+    #     enabled: false
+    #     title: PaperMod
+    #     imageUrl: "#"
+    #     imageTitle: my image
+    #     # imageWidth: 120
+    #     # imageHeight: 120
+    #     buttons:
+    #         - name: Archives
+    #           url: archives
+    #         - name: Tags
+    #           url: tags
+    profileMode:
+        enabled: true
+        title: Charlotte Le
+        email: "charlottele [at] berkeley [dot] edu"
+        subtitle: "I'm a junior at UC Berkeley majoring in computer science and minoring in politics, 
+        philosophy, and law (PPL)."
+    
+        buttons:
+            - name: Experience
+              url: experience/
+            - name: Teaching
+              url: teaching/
+            - name: Projects
+              url: projects/
+
+    # homeInfoParams:
+    #     Title: "Charlotte Le"
+    #     Content: >
+    #         I'm a student at UC Berkeley.
+    
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        noClasses: false

@@ -3,12 +3,9 @@ title: "Teaching"
 draft: false
 ---
 
-
-
 - Labs: `M, W` | `8:00 PM - 9:30 PM` 
 - Discussions: `Tu, Th` | `8:00 PM - 9:30 PM` 
-- Office Hours: `Tu 1:00 PM - 2:00 PM`, `W 3:00 PM - 5:00 PM` | `Cory 521`
-
+- Office Hours: `W 6:00 PM - 6:00 PM` | [`Online`](https://oh.cs61a.org/appointments); `F 1:00 PM - 3:00 PM` | `Cory 521`
 
 ---
 

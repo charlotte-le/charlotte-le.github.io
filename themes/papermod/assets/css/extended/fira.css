@@ -1,0 +1,18 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+
+@font-face {
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/fira-sans-v10-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Fira Sans Regular'), local('FiraSans-Regular'),
+         url('../fonts/fira-sans-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/fira-sans-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/fira-sans-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/fira-sans-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/fira-sans-v10-latin-regular.svg#FiraSans') format('svg'); /* Legacy iOS */
+  }

@@ -12,6 +12,7 @@
 
 .profile .profile_inner h1 {
     padding: 12px 0;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 .profile img {
@@ -24,6 +25,7 @@
     flex-wrap: wrap;
     max-width: 800px;
     margin: 0 auto;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 

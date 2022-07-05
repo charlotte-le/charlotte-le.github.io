@@ -72,7 +72,8 @@ draft: false
 </p>
 <p style="margin : 0; padding-top:0; margin-left: 30px">
     Disc 03: Recursion + Tree Recursion 
-    <a href="https://drive.google.com/file/d/1xhwxHf-fW4mDJIEkOybvPy3QZW8Q55qZ/view?usp=sharing"><code>pdf</code></a>
+
+[//]: # (    <a href="https://drive.google.com/file/d/1xhwxHf-fW4mDJIEkOybvPy3QZW8Q55qZ/view?usp=sharing"><code>pdf</code></a>)
 </p>
 
 

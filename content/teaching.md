@@ -45,6 +45,7 @@ draft: false
 <summary>
 Attendance
 </summary>
+<blockquote>
 
 - Discussion
     - The secret word will be given at the end of section.
@@ -55,19 +56,22 @@ Attendance
     - You can use this time to work on the lab assignment and ask any questions.
     - If you complete the lab assignment before section, you can submit your okpy link as the secret word for credit.
 
+</blockquote>
 </details>
 
 <details>
 <summary>
 Contact 
 </summary>
+<blockquote>
 
 - Please use Piazza or office hours for debugging and general logistical questions.
 - I'm happy to respond to emails, but there are almost 100 students enrolled in my section so it's a bit difficult. Emails should generally be reserved for personal or section-specific matters.
 - Dozens of staff monitor Piazza all day, so you'll recieve a much faster response there.
 
-
+</blockquote>
 </details>
+
 
 
 

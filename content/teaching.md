@@ -15,9 +15,6 @@ draft: false
 
 
 
-
-
-
 - Labs \
 `M, W` | `8:00 PM - 9:30 PM` | [`Online`](https://go.cs61a.org/charlotte)
 - Discussions \
@@ -27,24 +24,54 @@ draft: false
 `F` | `1:00 PM - 3:00 PM` | `Cory 521`
 
 ---
+
 ### Links
   
 - Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
-- Discussion Slides: [`go.cs61a.org/char-slides`](https://go.cs61a.org/char-slides)
 - Anonymous Feedback Form: [`go.cs61a.org/char-anon`](https://go.cs61a.org/char-anon)
 - 1-on-1 Advising Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/adv-charlotte)
 
 
+---
 
+### Logistics
+- There are issues with sections.cs61a.org and howamidoing from our end, especially with those enrolled in my section after we expanded it.
+- Your participation points may not show up because of this. 
+- We're hoping to resolve everything by this weekend. Sorry for the inconvenience!
+
+
+
+<details>
+<summary>
+Attendance
+</summary>
+
+- Discussion
+    - The secret word will be given at the end of section.
+    - You must attend the entire section.
+    - Your attendance status will be verified with the Zoom meeting data.
+- Lab
+    - The secret word will be given towards the beginning of section.
+    - You can use this time to work on the lab assignment and ask any questions.
+    - If you complete the lab assignment before section, you can submit your okpy link as the secret word for credit.
+
+</details>
+
+<details>
+<summary>
+Contact 
+</summary>
+
+- Please use Piazza or office hours for debugging and general logistical questions.
+- I'm happy to respond to emails, but there are almost 100 students enrolled in my section so it's a bit difficult. Emails should generally be reserved for personal or section-specific matters.
+- Dozens of staff monitor Piazza all day, so you'll recieve a much faster response there.
+
+
+</details>
 
 
 
 ---
-### Guides
-- Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
-- Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
----
-
 ### Weekly Material
 
 
@@ -72,8 +99,7 @@ draft: false
 </p>
 <p style="margin : 0; padding-top:0; margin-left: 30px">
     Disc 03: Recursion + Tree Recursion 
-
-[//]: # (    <a href="https://drive.google.com/file/d/1xhwxHf-fW4mDJIEkOybvPy3QZW8Q55qZ/view?usp=sharing"><code>pdf</code></a>)
+    <a href="https://drive.google.com/file/d/1IUsPZE_gotX03XkcyYnHucaEz04gT6wW/view?usp=sharing"><code>pdf</code></a>
 </p>
 
 
@@ -83,9 +109,16 @@ draft: false
     Week 3
 </p>
 <p style="margin : 0; padding-top:0; margin-left: 30px">
-    Disc 04: Sequences
+    Disc 04: Lists + Sequences
+    <a href="https://drive.google.com/file/d/1rRU5oZJry_auw59Hd5Lxw8SBzEMf-hkg/view?usp=sharing"><code>pdf</code></a>
+
 </p>
 
+
+---
+### Guides
+- Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
+- Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
 
 
 

@@ -29,8 +29,9 @@ draft: false
   
 - Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
 - Anonymous Feedback Form: [`go.cs61a.org/char-anon`](https://go.cs61a.org/char-anon)
-- 1-on-1 Advising Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/adv-charlotte)
-
+- 1-on-1 Advising Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
+- Join Queue: [`go.cs61a.org/char-help`](http://go.cs61a.org/char-help)
+- View Queue: [`go.cs61a.org/char-queue`](http://go.cs61a.org/char-queue)
 
 ---
 
@@ -117,6 +118,12 @@ Contact
     <a href="https://drive.google.com/file/d/1rRU5oZJry_auw59Hd5Lxw8SBzEMf-hkg/view?usp=sharing"><code>pdf</code></a>
 
 </p>
+<p style="margin : 0; padding-top:0; margin-left: 30px">
+    Lab 04: Recursion
+    <a href="https://drive.google.com/file/d/1qEnL0pVOf-zhL8W-V4-PaNsXl1Aee4R3/view?usp=sharing"><code>pdf</code></a>
+
+</p>
+
 
 
 ---

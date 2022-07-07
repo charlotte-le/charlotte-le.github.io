@@ -120,7 +120,7 @@ Contact
 </p>
 <p style="margin : 0; padding-top:0; margin-left: 30px">
     Lab 03: Recursion
-    <a href="https://drive.google.com/file/d/1qEnL0pVOf-zhL8W-V4-PaNsXl1Aee4R3/view?usp=sharing"><code>pdf</code></a>
+    <a href="https://drive.google.com/file/d/1qEnL0pVOf-zhL8W-V4-PaNsXl1Aee4R3/view?usp=sharing"><code>png</code></a>
 
 </p>
 

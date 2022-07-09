@@ -36,9 +36,8 @@ draft: false
 ---
 
 ### Logistics
-- There are issues with sections.cs61a.org and howamidoing from our end, especially with those enrolled in my section after we expanded it.
-- Your participation points may not show up because of this. 
-- We're hoping to resolve everything by this weekend. Sorry for the inconvenience!
+- Your participation points should show up this weekend.
+
 
 
 
@@ -123,6 +122,15 @@ Contact
     <a href="https://drive.google.com/file/d/1qEnL0pVOf-zhL8W-V4-PaNsXl1Aee4R3/view?usp=sharing"><code>png</code></a>
 
 </p>
+
+<p style="margin : 0; padding-top:0; margin-left: 30px">
+    Disc 05: Mutability + OOP
+    <a href="https://drive.google.com/file/d/1MEx3QmoHfGx_msjscM4eQgDkrpORBU-n/view?usp=sharing"><code>pdf</code></a>
+
+</p>
+
+
+
 
 
 

@@ -36,7 +36,7 @@ draft: false
 ---
 
 ### Logistics
-- Your participation points should show up this weekend.
+- Your participation points should show up this weekend (at least for lab).
 
 
 

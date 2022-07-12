@@ -36,7 +36,8 @@ draft: false
 ---
 
 ### Logistics
-- Your participation points should show up this weekend (at least for lab).
+- Your lab participation points are up!
+- I have submitted discussion participation points and they should be released by the midterm.
 
 
 

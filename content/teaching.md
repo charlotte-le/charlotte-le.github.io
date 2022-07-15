@@ -39,7 +39,7 @@ draft: false
 - All participation points should be visible and up to date now!
 - If you're missing points, it's likely because the email you used to fill out the attendance form didn't match the email you used to join the Zoom or you joined the Zoom as a guest. In the future, I'll require Berkeley emails for both to avoid this. There were some responses where the incorrect section was ticked too.
 - Please fill out [this](https://forms.gle/ohGt5VGismVp5Exs6) form if you're missing any points. 
-- I'll look into each response manually to update the points. You don't need to include any explanation or evidence because I have it all in record. Don't worry——if you should have recieved attendance points then you'll defiinitely get them. If there's an issue, I'll send you an email. Sorry for the inconvenience!
+- I'll look into each response manually to update the points. You don't need to include any explanation or evidence because I have it all in record. Don't worry—if you should have recieved attendance points then you'll defiinitely get them. If there's an issue, I'll send you an email. Sorry for the inconvenience!
 
 
 

@@ -138,7 +138,7 @@ Contact
 </p>
 
 <p style="margin-bottom:0;">
-    Week 8
+    Week 6
 </p>
 <p style="margin : 0; padding-top:0; margin-left: 30px">
     Disc 09: Dynamic Scoping + Tail Recursion + Interpreter

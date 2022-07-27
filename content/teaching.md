@@ -135,8 +135,16 @@ Contact
 <p style="margin : 0; padding-top:0; margin-left: 30px">
     Disc 07: Scheme
     <a href="https://drive.google.com/file/d/1D_gFsuxOrDkjdmR2mCt-gIZ7fs-IG4QU/view?usp=sharing"><code>png</code></a>
-
 </p>
+
+<p style="margin-bottom:0;">
+    Week 8
+</p>
+<p style="margin : 0; padding-top:0; margin-left: 30px">
+    Disc 09: Dynamic Scoping + Tail Recursion + Interpreter
+    <a href="https://drive.google.com/file/d/1egFX6RI_XOIlF3oyZzNmozbrsflRfnsH/view?usp=sharing"><code>png</code></a>
+</p>
+
 
 
 

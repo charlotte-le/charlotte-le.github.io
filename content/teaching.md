@@ -36,7 +36,6 @@ draft: false
 ---
 
 ### Logistics
-- All participation points should be visible and up to date now!
 - Please fill out [this](https://forms.gle/ohGt5VGismVp5Exs6) form if you're missing any points. 
 
 
@@ -76,9 +75,9 @@ Contact
 
 
 ---
-### Weekly Material
-
-
+### Weekly Material & Guides
+[`Google Drive`](https://drive.google.com/drive/folders/1x_PFftGclLJHIL6CGmp-T1zS2WDeteyK?usp=sharing)
+<!-- 
 
 <p style="margin-bottom:0;">
     Week 1
@@ -157,5 +156,5 @@ Contact
 - Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
 - Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
 
-
+ -->
 

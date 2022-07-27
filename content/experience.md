@@ -22,8 +22,7 @@ draft: false
 
 <h4 style = "text-indent: 20px; font-size: 18px"> Snoonu – Software Engineer Intern </h4>
 <p style = "padding-left: 20px;"> 
-Snoonu is projected to be Qatar's first unicorn after raising $5 million in its Series A 
-round. I worked with .NET and Apache Superset.
+Snoonu is a technology company focusing on e-commerce services. It is projected to be Qatar's first unicorn. I worked with .NET and Apache Superset.
 
 
 
@@ -31,11 +30,11 @@ round. I worked with .NET and Apache Superset.
 
 ---
 
-> ### Teaching & Research
+> ### Research & Teaching
 
 <h4 style = "text-indent: 20px; font-size: 18px"> Undergraduate Research Assistant </h4>
 
-<p style = "padding-left: 20px;"> Supervised by Dan Garcia </p>
+<p style = "padding-left: 20px;"> Supervised by Dan Garcia in the Berkeley ACE lab. </p>
 
 <h4 style = "text-indent: 20px; font-size: 18px"> CS 61A Head TA (Undergraduate Student Instructor) </h4>
 
@@ -43,19 +42,25 @@ round. I worked with .NET and Apache Superset.
 
 <h4 style = "text-indent: 20px; font-size: 18px">CS 61A TA (Undergraduate Student Instructor) </h4>
 
+<p style = "padding-left: 20px;"> Spring 2022 </p>
+
 <h4 style = "text-indent: 20px; font-size: 18px"> CS 61A Tutor </h4>
+
+<p style = "padding-left: 20px;"> Fall 2021 </p>
 
 ---
 
 > ### Advocacy
 <h4 style = "text-indent: 20px; font-size: 18px"> ASUC Office of Academic Affairs – Director of Academic Planning </h4>
 <p style = "padding-left: 20px;"> 
-I was appointed in the students' association to focus on the long-term future of UC Berkeley's academics.
+I was appointed in the students' association to represent 45,000 students and focus on the long-term future of UC Berkeley's academics.
 </p>
 
 <h4 style = "text-indent: 20px; font-size: 18px"> United Nations – Youth Representative </h4>
 
-<p style = "text-indent: 20px;"> Report: <a href="https://undocs.org/Home/Mobile?FinalSymbol=E%2F2019%2F30%2520&Language=E&DeviceType=Desktop&LangRequested=False">E/CN.15/2019/15</a> </p> 
+<p style = "padding-left: 20px;"> I was the youngest person invited and sponsored by the UN to attend Session 28 of the Commission on Crime Prevention and Criminal Justice (CCPCJ) in Vienna, Austria. I represented the youth voice through a speech that highlighted Sustainable Development Goal 16 (Peace, Justice and Strong Institutions).
+
+<p style = "padding-left: 20px;"> Report:  <a href="https://undocs.org/Home/Mobile?FinalSymbol=E%2F2019%2F30%2520&Language=E&DeviceType=Desktop&LangRequested=False">E/CN.15/2019/15</a> </p> 
 
 ---
 > ### Organizations

@@ -39,7 +39,6 @@ draft: false
 - Please fill out [this](https://forms.gle/ohGt5VGismVp5Exs6) form if you're missing any points. 
 
 
-
 <details>
 <summary>
 Attendance
@@ -77,22 +76,21 @@ Contact
 ---
 ### Weekly Material & Guides
 [`Google Drive`](https://drive.google.com/drive/folders/1x_PFftGclLJHIL6CGmp-T1zS2WDeteyK?usp=sharing)
-<!-- 
 
 <p style="margin-bottom:0;">
-    Week 1
+    Discussion 11
 </p>
 <p style="margin : 0; padding-top:0; margin-left: 30px">
-  Disc 00: Getting Started 
-  <a href="https://drive.google.com/file/d/1xhwxHf-fW4mDJIEkOybvPy3QZW8Q55qZ/view?usp=sharing"><code>pdf</code></a>
+  Introduction to Regex
+  <a href="https://youtu.be/bTf863uT6NM"><code>link</code></a>
 </p>
 <p style="margin : 0; padding-top:0; margin-left: 30px">
-    Disc 01: Variables and Functions + Control 
-    <a href="https://drive.google.com/file/d/117ROPhE2G0KFxS8_IHjHuYqM6lndWX-p/view?usp=sharing"><code>pdf</code></a>
+    Q1-Q2 (Regex)
+    <a href="https://youtu.be/fx-ifCHXh1c"><code>link</code></a>
 </p>
 
 
-
+<!-- 
 <p style="margin-bottom:0;">
     Week 2
 </p>

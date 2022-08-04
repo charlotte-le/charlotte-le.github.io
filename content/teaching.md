@@ -37,6 +37,7 @@ draft: false
 
 ### Logistics
 - Please fill out [this](https://forms.gle/ohGt5VGismVp5Exs6) form if you're missing any points. 
+- I will award everything this weekend. All points should be up to date by Monday, August 8.
 
 
 <details>

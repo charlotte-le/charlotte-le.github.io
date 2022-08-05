@@ -79,7 +79,8 @@ Contact
 [`Google Drive`](https://drive.google.com/drive/folders/1x_PFftGclLJHIL6CGmp-T1zS2WDeteyK?usp=sharing)
 
 <p style="margin-bottom:0;">
-    Discussion 11
+    Discussion 11 Videos
+    Make sure video quality is set to the highest.
 </p>
 <p style="margin : 0; padding-top:0; margin-left: 30px">
   Introduction to Regex

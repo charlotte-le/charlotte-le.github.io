@@ -16,7 +16,14 @@ draft: false
 
 > ### Internships
 <h4 style = "text-indent: 20px; font-size: 18px"> PlayStation – Software Engineer Intern </h4>
-<p style = "text-indent: 20px;"> My experience will be published on the Sony blog!</p> 
+<p style = "text-indent: 20px;"> My experience will be published on the Sony blog too!
+
+There are many running services on the Sony Content Pipeline platform that have their own availability, connections, and authentication. The goal of my project is to develop an application from scratch that monitors data and status of all these services.
+
+I mainly worked with Java, Maven, Spring Boot, and Docker. To provide API support for certain resources, I invoked AWS Lambda functions. I integrated automation (Quartz) and status history requests through a relational database (MySQL, JDBC, JPA, Hibernate) too. I achieved complete code coverage using JUnit, Mockito, & JaCoCo.
+
+
+</p> 
 
 
 
@@ -53,7 +60,7 @@ Snoonu is a technology company focusing on e-commerce services. It is projected 
 > ### Advocacy
 <h4 style = "text-indent: 20px; font-size: 18px"> ASUC Office of Academic Affairs – Director of Academic Planning </h4>
 <p style = "padding-left: 20px;"> 
-I was appointed in the students' association to represent 45,000 students and focus on the long-term future of UC Berkeley's academics.
+I was appointed in the students' association to focus on the long-term future of UC Berkeley's academics.
 </p>
 
 <h4 style = "text-indent: 20px; font-size: 18px"> United Nations – Youth Representative </h4>

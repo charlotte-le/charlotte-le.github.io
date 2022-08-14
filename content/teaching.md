@@ -36,8 +36,9 @@ draft: false
 ---
 
 ### Logistics
+- Congrats for finishing the midterm!! Thank you so much for being in my section this summer :)
 - Please fill out [this](https://forms.gle/ohGt5VGismVp5Exs6) form if you're missing any points. 
-- I will award everything this weekend. All points should be up to date by Monday, August 8.
+- As of Aug 14, I have updated all points. Let me know if they don't show up by Aug 15.
 
 
 <details>

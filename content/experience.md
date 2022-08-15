@@ -7,7 +7,7 @@ draft: false
 
 
 
-### [Resume](https://drive.google.com/file/d/17nh9vih7a-hw0xKb2f7FRAvwRdPqL7Nb/view?usp=sharing)
+### [Resume](https://drive.google.com/file/d/1QdDeCoZlXxdihW8T3F0snQNWZShcfX5f/view?usp=sharing)
 
 ---
 <!-- <h3 style="background-color:lightgray; text-align:left; text-indent: 15px; font-weight: bold; vertical-align: middle; padding:10px 0;">
@@ -16,13 +16,7 @@ draft: false
 
 > ### Internships
 <h4 style = "text-indent: 20px; font-size: 18px"> PlayStation – Software Engineer Intern </h4>
-<p style = "text-indent: 20px;"> My experience will be published on the Sony blog too!
-
-There are many running services on the Sony Content Pipeline platform that have their own availability, connections, and authentication. The goal of my project is to develop an application from scratch that monitors data and status of all these services.
-
-I mainly worked with Java, Maven, Spring Boot, and Docker. To provide API support for certain resources, I invoked AWS Lambda functions. I integrated automation (Quartz) and status history requests through a relational database (MySQL, JDBC, JPA, Hibernate) too. I achieved complete code coverage using JUnit, Mockito, & JaCoCo.
-
-
+<p style = "padding-left: 20px;"> There are many running services on the Sony Content Pipeline platform that have their own availability, connections, and authentication. The goal of my project is to develop an application from scratch that monitors data and status of all these services. I mainly worked with Java, Maven, Spring Boot, and Docker. To provide API support for certain resources, I invoked AWS Lambda functions. I integrated automation (Quartz) and status history requests through a relational database (MySQL, JDBC, JPA, Hibernate) too. I achieved 90%+ code coverage using JUnit, Mockito, & JaCoCo. My experience will be published on the Sony blog too!
 </p> 
 
 
@@ -30,7 +24,6 @@ I mainly worked with Java, Maven, Spring Boot, and Docker. To provide API suppor
 <h4 style = "text-indent: 20px; font-size: 18px"> Snoonu – Software Engineer Intern </h4>
 <p style = "padding-left: 20px;"> 
 Snoonu is a technology company focusing on e-commerce services. It is projected to be Qatar's first unicorn. I worked with .NET and Apache Superset.
-
 
 
 </p> 

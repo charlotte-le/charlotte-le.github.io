@@ -6,7 +6,7 @@ draft: false
 
 
 
-> ## CS 61A Head uGSI  Spring 2022
+> ## CS 61A Head uGSI Fall 2022
 > charlottele [at] berkeley [dot] edu 
 <!-- > <details>
 

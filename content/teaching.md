@@ -6,7 +6,7 @@ draft: false
 
 
 
-> ## CS 61A Head uGSI  Summer 2022
+> ## CS 61A Head uGSI  Spring 2022
 > charlottele [at] berkeley [dot] edu 
 <!-- > <details>
 
@@ -14,17 +14,13 @@ draft: false
 
 
 
-
-- Labs \
-`M, W` | `8:00 PM - 9:30 PM` | [`Online`](https://go.cs61a.org/charlotte)
-- Discussions \
-`Tu, Th` | `8:00 PM - 9:30 PM` | [`Online`](https://go.cs61a.org/charlotte)
+- Mega Section \
+`Th` | `5:00 PM - 6:30 PM` | [`Dwinelle 145 & Remote`](https://go.cs61a.org/charlotte)
 - Office Hours \
-`W` | `6:00 PM - 7:00 PM` | [`Online`](https://oh.cs61a.org/appointments)  
-`F` | `1:00 PM - 3:00 PM` | `Cory 521`
+`TBD`
 
 ---
-
+<!-- 
 ### Links
   
 - Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
@@ -36,7 +32,7 @@ draft: false
 ---
 
 ### Logistics
-- Congrats for finishing the midterm!! Thank you so much for being in my section this summer :)
+- Congrats for finishing the midterm! Thank you so much for being in my section this summer :) 
 - Please fill out [this](https://forms.gle/ohGt5VGismVp5Exs6) form if you're missing any points. 
 - As of Aug 14, I have updated all points. Let me know if they don't show up by Aug 15.
 
@@ -90,7 +86,7 @@ Contact
 <p style="margin : 0; padding-top:0; margin-left: 30px">
     Q1-Q2 (Regex)
     <a href="https://youtu.be/fx-ifCHXh1c"><code>link</code></a>
-</p>
+</p> -->
 
 
 <!-- 

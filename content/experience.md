@@ -24,9 +24,11 @@ draft: false
 <h4 style = "text-indent: 20px; font-size: 18px"> Snoonu – Software Engineer Intern </h4>
 <p style = "padding-left: 20px;"> 
 Snoonu is a technology company focusing on e-commerce services. It is projected to be Qatar's first unicorn. I worked with .NET and Apache Superset.
-
-
 </p> 
+
+<h4 style = "text-indent: 20px; font-size: 18px"> Bit Reboot – Software Engineer Intern </h4>
+
+
 
 ---
 

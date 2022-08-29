@@ -15,7 +15,9 @@ draft: false
 </h3> -->
 
 > ### Internships
+
 <h4 style = "text-indent: 20px; font-size: 18px"> PlayStation – Software Engineer Intern </h4>
+
 <p style = "padding-left: 20px;"> Sony Interactive Entertainment Blog:  <a href="https://www.sie.com/en/blog/playstation-summer-2022-intern-spotlight/">Intern Spotlight</a> </p> 
 
 <p style = "padding-left: 20px;"> There are many running services on the Sony Content Pipeline platform that have their own availability, connections, and authentication. The goal of my project was to develop an application from scratch that monitors data and status of all these services. I mainly worked with Java, Maven, Spring Boot, and Docker. To provide API support for certain resources, I invoked AWS Lambda functions. I integrated automation (Quartz) and status history requests through a relational database (MySQL, JDBC, JPA, Hibernate) too. I achieved 90%+ code coverage using JUnit, Mockito, & JaCoCo. 

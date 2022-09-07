@@ -12,11 +12,27 @@ draft: false
 
 </details> -->
 
+---
 
+### 1-on-1 Advising Appointments
 
-- Mega Section \
-`Th` | `5:00 PM - 6:30 PM` | [`Dwinelle 145 & Remote`](https://go.cs61a.org/charlotte)
-- Office Hours \
+[`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
+
+--- 
+### Mega Discussion 
+
+`Thursday` | `5:00 PM - 6:30 PM` | `Dwinelle 145`
+
+`W` | `Evening` | `Walkthough Video Uploaded`
+
+--- 
+### Mega Lab 
+
+`M` | `3:30 PM - 5:00 PM` | `Dwinelle 145`
+
+---
+### Office Hours 
+
 `TBD`
 
 ---

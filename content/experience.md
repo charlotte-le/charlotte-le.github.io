@@ -9,7 +9,7 @@ draft: false
 
 ### Summary
 
-[`Resume`](https://drive.google.com/file/d/1QdDeCoZlXxdihW8T3F0snQNWZShcfX5f/view?usp=sharing)
+[`Resume`](https://drive.google.com/file/d/1jT_BDR_jCkBkwMWvHt4iee43VR2tHykJ/view?usp=sharing)
 
 ---
 <!-- <h3 style="background-color:lightgray; text-align:left; text-indent: 15px; font-weight: bold; vertical-align: middle; padding:10px 0;">
@@ -76,7 +76,7 @@ I was the youngest person invited and sponsored by the UN to attend Session 28 o
 
 
 #### CTO – Cruuz
-Berkeley Skydeck Batch 12
+Berkeley SkyDeck Batch 12
 
 ---
 
@@ -84,3 +84,8 @@ Berkeley Skydeck Batch 12
 Debate Society of Berkeley, Parliamentary Debate at Berkeley, BridgeUSA, Delta Gamma
 
 ---
+
+### Awards
+- UC Berkeley Grace Hopper Scholarship Recipient 
+- Grace Hopper Scholar 2022 
+- UC Berkeley Leadership Award

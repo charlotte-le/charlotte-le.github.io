@@ -82,18 +82,7 @@ params:
         title: Charlotte Le
         email: "charlottele [at] berkeley [dot] edu"
         subtitle: "I'm a junior at UC Berkeley majoring in computer science and minoring in politics, 
-        philosophy, and law (PPL).
-        
-        Last summer, I worked two full-time jobs as a Software Engineer Intern at PlayStation 
-        and as the CS 61A Head Undergraduate Student Instructor of CS 61A. I flew between San Francisco and Los Angeles 
-        multiple times each week.
-
-        In the past, I worked as a Software Engineer Intern at Snoonu (a technology company projected to be Qatar's first unicorn) and 
-        Bit Reboot (a digital agency focused on web and mobile development).
-
-
-
-        "
+        philosophy, and law (PPL)."
     
         buttons:
             - name: Experience

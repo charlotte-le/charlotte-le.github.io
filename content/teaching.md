@@ -6,7 +6,7 @@ draft: false
 
 
 
-> ## CS 61A Head uGSI Fall 2022
+> ## CS 61A Head uGSI Spring 2023
 > charlottele [at] berkeley [dot] edu 
 <!-- > <details>
 
@@ -19,16 +19,23 @@ draft: false
 [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
 
 --- 
-### Mega Discussion 
+### Regular Section 
 
-`Thursday` | `5:00 PM - 6:30 PM` | `Dwinelle 145`
+`Lab` | `Wednesday` | `12:30 PM - 2:00 PM` | `Soda 271`
 
-`W` | `Evening` | `Walkthough Video Uploaded`
+`Discussion` | `Friday` | `12:30 PM - 2:00 PM` | `Soda 306`
+
+
 
 --- 
-### Mega Lab 
+### Mega Section
 
-`M` | `3:30 PM - 5:00 PM` | `Dwinelle 145`
+`Office Hours` | `Wednesday` | `9:00 AM - 11:00 AM` | `TBD`
+
+`Videos` | `Wednesday` | `Evening` | [`cs61a.org`](https://cs61a.org/)
+
+
+- [Kickoff Slides](https://go.cs61a.org/mega-kickoff)
 
 ---
 ### Office Hours 

@@ -46,7 +46,7 @@ draft: false
 `Discussion Walkthrough Videos` | `Wednesday` | `Evening` | [`cs61a.org`](https://cs61a.org/)
 
 
-- Kickoff Slides: [go.cs61a.org/mega-kickoff](https://go.cs61a.org/mega-kickoff)
+- Kickoff Slides: [`go.cs61a.org/mega-kickoff`](https://go.cs61a.org/mega-kickoff)
 
 ---
 ### Office Hours 

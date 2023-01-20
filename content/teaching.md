@@ -35,6 +35,10 @@ draft: false
 
 - Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
 
+#### Weekly Material
+- [Discussion 0](https://drive.google.com/file/d/1cNf66giT3-nGpcnWA2lEjWpyz9bn3omF/view?usp=share_link)
+
+
 
 --- 
 ### Mega Section
@@ -183,9 +187,11 @@ Contact
 
 
 ---
-### Guides
-- Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
-- Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
+
 
  -->
+
+ ### Guides
+- Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
+- Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
 

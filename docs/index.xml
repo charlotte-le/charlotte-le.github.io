@@ -37,12 +37,15 @@ There are many running services on the Sony Content Pipeline platform that have 
       
       <guid>http://charlotte-le.com/teaching/</guid>
       <description>CS 61A Head uGSI Spring 2023 charlottele [at] berkeley [dot] edu
-1-on-1 Advising Appointments go.cs61a.org/char-advice
+Links 1-on-1 Advising Appointments: go.cs61a.org/char-advice
+Join Lab Queue: go.cs61a.org/char-help
+View Lab Queue: go.cs61a.org/char-queue
+Anonymous Feedback Form: go.cs61a.org/char-anon
 Regular Section Lab | Wednesday | 12:30 PM - 2:00 PM | Soda 271
 Discussion | Friday | 12:30 PM - 2:00 PM | Soda 306
-Mega Section Office Hours | Wednesday | 9:00 AM - 11:00 AM | TBD
-Videos | Wednesday | Evening | cs61a.org
-Kickoff Slides Office Hours TBD</description>
+Links Introduction Form: go.cs61a.org/char-intro
+Attendance Form: go.cs61a.org/char-attend
+Mega Section Office Hours | Wednesday | 9:00 AM - 11:00 AM | TBD</description>
     </item>
     
   </channel>

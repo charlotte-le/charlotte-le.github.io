@@ -14,9 +14,15 @@ draft: false
 
 ---
 
-### 1-on-1 Advising Appointments
+### Links
 
-[`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
+- 1-on-1 Advising Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
+
+- Join Lab Queue: [`go.cs61a.org/char-help`](http://go.cs61a.org/char-help)
+
+- View Lab Queue: [`go.cs61a.org/char-queue`](http://go.cs61a.org/char-queue)
+
+- Anonymous Feedback Form: [`go.cs61a.org/char-anon`](https://go.cs61a.org/char-anon)
 
 --- 
 ### Regular Section 
@@ -25,6 +31,9 @@ draft: false
 
 `Discussion` | `Friday` | `12:30 PM - 2:00 PM` | `Soda 306`
 
+- Introduction Form: [`go.cs61a.org/char-intro`](https://go.cs61a.org/char-intro)
+
+- Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
 
 
 --- 
@@ -32,10 +41,12 @@ draft: false
 
 `Office Hours` | `Wednesday` | `9:00 AM - 11:00 AM` | `TBD`
 
-`Videos` | `Wednesday` | `Evening` | [`cs61a.org`](https://cs61a.org/)
+`Lab Getting Started Videos` | `Monday` | `Evening` | [`cs61a.org`](https://cs61a.org/)
+
+`Discussion Walkthrough Videos` | `Wednesday` | `Evening` | [`cs61a.org`](https://cs61a.org/)
 
 
-- [Kickoff Slides](https://go.cs61a.org/mega-kickoff)
+- Kickoff Slides: [go.cs61a.org/mega-kickoff](https://go.cs61a.org/mega-kickoff)
 
 ---
 ### Office Hours 

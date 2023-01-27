@@ -27,9 +27,9 @@ draft: false
 --- 
 ### Regular Section 
 
-`Lab` | `Wednesday` | `12:30 PM - 2:00 PM` | `Soda 271`
+`Lab` | `Wednesday` | `11:00 AM - 12:30 PM` | `Soda 271`
 
-`Discussion` | `Friday` | `12:30 PM - 2:00 PM` | `Soda 306`
+`Discussion` | `Friday` | `11:00 AM - 12:30 PM` | `Soda 310`
 
 - Introduction Form: [`go.cs61a.org/char-intro`](https://go.cs61a.org/char-intro)
 
@@ -37,7 +37,7 @@ draft: false
 
 #### Weekly Material
 - [Discussion 0](https://drive.google.com/file/d/1cNf66giT3-nGpcnWA2lEjWpyz9bn3omF/view?usp=share_link)
-
+- [Discussion 1](https://drive.google.com/file/d/1a6DlWb9OAlHF4sA-ZNs8dGgNq_Pt6-Dk/view?usp=sharing)
 
 
 --- 

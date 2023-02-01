@@ -16,18 +16,16 @@ draft: false
 
 ### Links
 
-- 1-on-1 Advising Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
+- 1-on-1 Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
 
-- Join Lab Queue: [`go.cs61a.org/char-help`](http://go.cs61a.org/char-help)
-
-- View Lab Queue: [`go.cs61a.org/char-queue`](http://go.cs61a.org/char-queue)
+- Lab Checkoff Form [`go.cs61a.org/char-lab`](https://forms.gle/5e8eb6xKCp9qh7jM7)
 
 - Anonymous Feedback Form: [`go.cs61a.org/char-anon`](https://go.cs61a.org/char-anon)
 
 --- 
 ### Regular Section 
 
-`Lab` | `Wednesday` | `11:00 AM - 12:30 PM` | `Soda 271`
+`Lab` | `Wednesday` | `11:00 AM - 12:30 PM` | `Soda 273`
 
 `Discussion` | `Friday` | `11:00 AM - 12:30 PM` | `Soda 310`
 

@@ -23,6 +23,12 @@ draft: false
 - Anonymous Feedback Form: [`go.cs61a.org/char-anon`](https://go.cs61a.org/char-anon)
 
 --- 
+
+### Guides
+- Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
+- Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
+
+--- 
 ### Regular Section 
 
 `Lab` | `Wednesday` | `11:00 AM - 12:30 PM` | `Soda 273`
@@ -34,8 +40,31 @@ draft: false
 - Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
 
 #### Weekly Material
-- [Discussion 0](https://drive.google.com/file/d/1cNf66giT3-nGpcnWA2lEjWpyz9bn3omF/view?usp=share_link)
-- [Discussion 1](https://drive.google.com/file/d/1a6DlWb9OAlHF4sA-ZNs8dGgNq_Pt6-Dk/view?usp=sharing)
+- Discussion 0: Getting Started <a href="https://drive.google.com/file/d/1cNf66giT3-nGpcnWA2lEjWpyz9bn3omF/view?usp=share_link"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 1: Control, Environment Diagrams <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzvS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 2: Environment Diagrams, Higher-Order Functions <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 3: Recursion <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 4: Tree Recursion <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 5: Trees <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 6: Iterators, Generators <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 7: Object-Oriented Programming <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 8: Linked Lists, Efficiency <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 9: Scheme, Scheme Lists <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 10: Interpreters <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 11: SQL <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+
+- Discussion 12: Final Review <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
 
 
 --- 
@@ -50,13 +79,12 @@ draft: false
 
 - Kickoff Slides: [`go.cs61a.org/mega-kickoff`](https://go.cs61a.org/mega-kickoff)
 
----
-### Office Hours 
+<!-- ### Office Hours 
 
 `TBD`
 
 ---
-<!-- 
+
 ### Links
   
 - Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
@@ -122,10 +150,10 @@ Contact
 <p style="margin : 0; padding-top:0; margin-left: 30px">
     Q1-Q2 (Regex)
     <a href="https://youtu.be/fx-ifCHXh1c"><code>link</code></a>
-</p> -->
+</p> 
 
 
-<!-- 
+
 <p style="margin-bottom:0;">
     Week 2
 </p>
@@ -178,18 +206,9 @@ Contact
 </p>
 
 
-
-
-
-
-
-
----
-
-
  -->
 
- ### Guides
-- Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
-- Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
+
+
+
 

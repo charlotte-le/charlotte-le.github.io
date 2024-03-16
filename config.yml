@@ -65,18 +65,6 @@ params:
     # comments: false
     images: ["papermod-cover.png"]
 
-    # profileMode:
-    #     enabled: false
-    #     title: PaperMod
-    #     imageUrl: "#"
-    #     imageTitle: my image
-    #     # imageWidth: 120
-    #     # imageHeight: 120
-    #     buttons:
-    #         - name: Archives
-    #           url: archives
-    #         - name: Tags
-    #           url: tags
     profileMode:
         enabled: true
         title: Charlotte Le
@@ -91,11 +79,6 @@ params:
               url: teaching/
             - name: Research
               url: research/
-
-    # homeInfoParams:
-    #     Title: "Charlotte Le"
-    #     Content: >
-    #         I'm a student at UC Berkeley.
     
 
 markup:

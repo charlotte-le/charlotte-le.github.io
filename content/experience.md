@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-### Summary
+#### Summary
 
 [`Resume`](https://drive.google.com/file/d/1jT_BDR_jCkBkwMWvHt4iee43VR2tHykJ/view?usp=sharing)
 
@@ -14,22 +14,22 @@ draft: false
       Internships
 </h3> -->
 
-### Internships (Software Engineer)
+#### Internships (Software Engineer)
 
-#### Slack, Salesforce – Summer 2023
+##### Slack, Salesforce – Summer 2023
 
 - Core Product Team
 
-#### PlayStation, Sony – Summer 2022
+### PlayStation, Sony – Summer 2022
 
 - Sony Content Pipeline Team [`Blog Spotlight`](https://www.sie.com/en/blog/playstation-summer-2022-intern-spotlight/)
 
 
-#### Bit Reboot – Fall 2021
+### Bit Reboot – Fall 2021
 
 - Startup
 
-#### Snoonu – Summer 2021
+### Snoonu – Summer 2021
 - An e-commerce services company projected to be Qatar's first unicorn
 
 
@@ -37,56 +37,56 @@ draft: false
 
 ---
 
-### Research & Teaching
+#### Research & Teaching
 
-#### Undergraduate Research Assistant
+### Undergraduate Research Assistant
 
 Supervised by Prof. Ken Goldberg in the Berkeley Artificial Intelligence Research Lab (BAIR).
 
 
-#### Undergraduate Research Assistant
+### Undergraduate Research Assistant
 
 Supervised by Prof. Dan Garcia in the Berkeley ACE lab.
 
-#### CS 61A Instructor
+### CS 61A Instructor
 
 Summer 2024
 
 
-#### CS 61A Head TA (Undergraduate Student Instructor) 
+### CS 61A Head TA (Undergraduate Student Instructor) 
 
 Summer 2022, Fall 2022, Spring 2023
 
-#### CS 61A TA (Undergraduate Student Instructor) 
+### CS 61A TA (Undergraduate Student Instructor) 
 
 Spring 2022 
 
-#### CS 61A Tutor
+### CS 61A Tutor
 
 Fall 2021 
 
 ---
 
-### Advocacy
-#### ASUC Office of Academic Affairs – Director of Academic Planning 
+#### Service
+### ASUC Office of Academic Affairs – Director of Academic Planning 
 
 Associated Students of the University of California
 
 
-#### United Nations – Youth Representative
+### United Nations – Youth Representative
 
 [`E/CN.15/2019/15`](https://undocs.org/Home/Mobile?FinalSymbol=E%2F2019%2F30%2520&Language=E&DeviceType=Desktop&LangRequested=False)
 
 
 ---
 
-### Other
+#### Miscellaneous
 
 
-#### Sales Technician – Code With Us
+### Sales Technician – Code With Us
 
 
-#### CTO – Cruuz
+### CTO – Cruuz
 - Berkeley SkyDeck Batch 12
 
 ---

@@ -5,42 +5,28 @@ draft: false
 ---
 
 
+#### Links
 
-> ## CS 61A Head uGSI Spring 2023
-> charlottele [at] berkeley [dot] edu 
-<!-- > <details>
-
-</details> -->
-
----
-
-### Links
-
-- 1-on-1 Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
+- Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
 
 - Lab Checkoff Form [`go.cs61a.org/char-lab`](https://forms.gle/5e8eb6xKCp9qh7jM7)
 
 - Anonymous Feedback Form: [`go.cs61a.org/char-anon`](https://go.cs61a.org/char-anon)
 
---- 
+- 1-on-1 Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
 
-### Guides
+
+#### Guides
 - Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
 - Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
 
---- 
-### Regular Section 
+#### Regular Section 
 
 `Lab` | `Wednesday` | `11:00 AM - 12:30 PM` | `Soda 273`
 
 `Discussion` | `Friday` | `11:00 AM - 12:30 PM` | `Soda 310`
 
-- Introduction Form: [`go.cs61a.org/char-intro`](https://go.cs61a.org/char-intro)
-
-- Attendance Form: [`go.cs61a.org/char-attend`](https://go.cs61a.org/char-attend)
-
-#### Weekly Material
-- Discussion 0: Getting Started <a href="https://drive.google.com/file/d/1cNf66giT3-nGpcnWA2lEjWpyz9bn3omF/view?usp=share_link"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
+- Discussion 0: Getting Started <a href="https://drive.google.com/file/d/1cNf66giT3-nGpcnWA2lEjWpyz9bn3oF/view?usp=share_link"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
 
 - Discussion 1: Control, Environment Diagrams <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzvS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
 
@@ -67,8 +53,7 @@ draft: false
 - Discussion 12: Final Review <a href="https://drive.google.com/file/d/1tooqKGRB61fbH3V882RbggMssghwHzS/view?usp=sharing"><code>slides</code></a> <a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZd4523jj9IUW2XIIxzTfN1"><code>videos</code></a> 
 
 
---- 
-### Mega Section
+#### Mega Section
 
 `Office Hours` | `Wednesday` | `9:00 AM - 11:00 AM` | `TBD`
 

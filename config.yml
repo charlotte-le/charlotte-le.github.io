@@ -36,8 +36,8 @@ languages:
                 - name: Teaching
                   url: teaching/
                   weight: 10
-                - name: Projects
-                  url: projects/
+                - name: Research
+                  url: research/
                   weight: 15
 
 
@@ -89,8 +89,8 @@ params:
               url: experience/
             - name: Teaching
               url: teaching/
-            - name: Projects
-              url: projects/
+            - name: Research
+              url: research/
 
     # homeInfoParams:
     #     Title: "Charlotte Le"

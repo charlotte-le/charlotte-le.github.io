@@ -22,11 +22,11 @@ There are many running services on the Sony Content Pipeline platform that have 
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://charlotte-le.com/projects/</link>
+      <title>Research</title>
+      <link>http://charlotte-le.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://charlotte-le.com/projects/</guid>
+      <guid>http://charlotte-le.com/research/</guid>
       <description> under construction :) </description>
     </item>
     
@@ -40,11 +40,12 @@ There are many running services on the Sony Content Pipeline platform that have 
 Links 1-on-1 Appointments: go.cs61a.org/char-advice
 Lab Checkoff Form go.cs61a.org/char-lab
 Anonymous Feedback Form: go.cs61a.org/char-anon
-Regular Section Lab | Wednesday | 11:00 AM - 12:30 PM | Soda 273
+Guides Debugging pdf Environment Diagramspdf Regular Section Lab | Wednesday | 11:00 AM - 12:30 PM | Soda 273
 Discussion | Friday | 11:00 AM - 12:30 PM | Soda 310
 Introduction Form: go.cs61a.org/char-intro
 Attendance Form: go.cs61a.org/char-attend
-Weekly Material Discussion 0 Discussion 1 Mega Section Office Hours | Wednesday | 9:00 AM - 11:00 AM | TBD</description>
+Weekly Material Discussion 0: Getting Started slides videos
+Discussion 1: Control, Environment Diagrams slides videos</description>
     </item>
     
   </channel>

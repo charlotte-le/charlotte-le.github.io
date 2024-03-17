@@ -16,9 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://charlotte-le.com/experience/</guid>
-      <description>Under Constuction :) Summary Resume
-Internships PlayStation – Software Engineer Intern Sony Interactive Entertainment Blog Spotlight
-There are many running services on the Sony Content Pipeline platform that have their own availability, connections, and authentication. The goal of my project was to develop an application from scratch that monitors data and status of all these services. I mainly worked with Java, Maven, Spring Boot, and Docker. To provide API support for certain resources, I invoked AWS Lambda functions.</description>
+      <description>Summary Resume Internships (Software Engineer) Slack (Salesforce) | Summer 2023 | Core Product Team PlayStation (Sony) | Summer 2022 | Sony Content Pipeline Team | Blog Spotlight Bit Reboot | Fall 2021 Snoonu | Summer 2021 | E-commerce services company projected to be Qatar&amp;rsquo;s first unicorn. Service Associated Students of the University of California (ASUC) | Office of Academic Affairs College of Computing, Data Science, and Society (CDSS) Liaison Director of Academic Planning United Nations | Commission on Crime Prevention and Criminal Justice E/CN.</description>
     </item>
     
     <item>
@@ -27,7 +25,7 @@ There are many running services on the Sony Content Pipeline platform that have 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://charlotte-le.com/research/</guid>
-      <description> under construction :) </description>
+      <description>Positions Undergraduate Research Assistant, Berkeley Artificial Intelligence Research (BAIR) Lab Undergraduate Research Assistant, Berkeley Algorithms &amp;amp; Computing for Education (ACE) Lab Independent EECS Honors Thesis + Politics, Philosophy, and Law Capstone Project: AGI Alignment Publications DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset. Manuscript submitted to Robotics: Science and Systems (RSS). FogROS2-Sky: Optimizing Latency and Cost for Multi-Cloud Robot Applications. Kaiyuan Chen, Kush Hari, Rohil Khare, Charlotte Le, Trinity Chung, Jaimyn Drake, Jeffrey Ichnowski, John Kubiatowicz, Ken Goldberg.</description>
     </item>
     
     <item>
@@ -36,16 +34,16 @@ There are many running services on the Sony Content Pipeline platform that have 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://charlotte-le.com/teaching/</guid>
-      <description>CS 61A Head uGSI Spring 2023 charlottele [at] berkeley [dot] edu
-Links 1-on-1 Appointments: go.cs61a.org/char-advice
+      <description>Links Attendance Form: go.cs61a.org/char-attend
 Lab Checkoff Form go.cs61a.org/char-lab
 Anonymous Feedback Form: go.cs61a.org/char-anon
+1-on-1 Appointments: go.cs61a.org/char-advice
 Guides Debugging pdf Environment Diagramspdf Regular Section Lab | Wednesday | 11:00 AM - 12:30 PM | Soda 273
 Discussion | Friday | 11:00 AM - 12:30 PM | Soda 310
-Introduction Form: go.cs61a.org/char-intro
-Attendance Form: go.cs61a.org/char-attend
-Weekly Material Discussion 0: Getting Started slides videos
-Discussion 1: Control, Environment Diagrams slides videos</description>
+Discussion 0: Getting Started slides videos
+Discussion 1: Control, Environment Diagrams slides videos
+Discussion 2: Environment Diagrams, Higher-Order Functions slides videos
+Discussion 3: Recursion slides videos</description>
     </item>
     
   </channel>

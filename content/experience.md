@@ -5,7 +5,7 @@ draft: false
 
 #### Summary
 
-- [`Resume`](https://drive.google.com/file/d/1jT_BDR_jCkBkwMWvHt4iee43VR2tHykJ/view?usp=sharing)
+- [`Resume`](https://drive.google.com/file/d/1Ad17tnLFm6fnWbVLRo866wjnd9k2tLiA/view?usp=sharing)
 
 <!-- <h3 style="background-color:lightgray; text-align:left; text-indent: 15px; font-weight: bold; vertical-align: middle; padding:10px 0;">
       Internships
@@ -32,6 +32,7 @@ draft: false
 - BridgeUSA
 - Delta Gamma
 - Upsilon Pi Epsilon
+- Phi Beta Kappa
 
 #### Miscellaneous
 - Technician | Code With Us

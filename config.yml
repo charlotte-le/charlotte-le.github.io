@@ -68,17 +68,26 @@ params:
     profileMode:
         enabled: true
         title: Charlotte Le
-        email: "charlottele [at] berkeley [dot] edu"
-        subtitle: "I'm a fourth-year undergraduate at UC Berkeley majoring in computer science and minoring in politics, 
-        philosophy, and law (PPL)."
+        email: "charlotte [dot] le [at] salesforce [dot] com"
+        subtitle: "I am developing machine learning infrastructure at Slack. 
+        
+        &nbsp;
+   
+
+        &nbsp;
+
+
+        I received my Bachelor's degree in computer science with EECS honors from UC Berkeley,  
+        where I also minored in politics, philosophy, and law.
+        During my time there, I conducted research with the Berkeley Artificial Intelligence Research (BAIR) lab and served as an instructor for CS 61A."
     
-        buttons:
-            - name: Experience
-              url: experience/
-            - name: Teaching
-              url: teaching/
-            - name: Research
-              url: research/
+        # buttons:
+        #     - name: Experience
+        #       url: experience/
+        #     - name: Teaching
+        #       url: teaching/
+        #     - name: Research
+        #       url: research/
     
 
 markup:

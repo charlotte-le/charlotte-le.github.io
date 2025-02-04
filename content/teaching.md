@@ -15,10 +15,13 @@ draft: false
 
 - 1-on-1 Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
 
+#### Lectures
 
-#### Guides
-- Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
-- Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
+- `Lecture 1`
+- `Lecture 2`
+- `Lecture 3`
+- `Lecture 4`
+
 
 #### Regular Section 
 
@@ -63,6 +66,11 @@ draft: false
 
 
 - Kickoff Slides: [`go.cs61a.org/mega-kickoff`](https://go.cs61a.org/mega-kickoff)
+
+
+#### Guides
+- Debugging [`pdf`](https://drive.google.com/file/d/1O72u0ml65pibcjz-PXKpqeJDKaVqQ3D8/view?usp=sharing)
+- Environment Diagrams[`pdf`](https://drive.google.com/file/d/1m5lsTmymfBPB772C3yqkWFzmEoijy-AX/view?usp=sharing)
 
 <!-- ### Office Hours 
 

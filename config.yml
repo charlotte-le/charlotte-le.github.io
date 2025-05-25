@@ -62,6 +62,10 @@ params:
     ShowToc: false
     # comments: false
     images: ["papermod-cover.png"]
+    assets:
+      favicon: "/static/favicon.ico"
+      favicon16x16: "/static/favicon.ico" 
+      favicon32x32: "/static/favicon.ico" 
     socialIcons: # optional
           - name: "email"
             url: "mailto:charlottele@berkeley.edu"

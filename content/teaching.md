@@ -13,7 +13,7 @@ draft: false
 
 - Anonymous Feedback Form: [`go.cs61a.org/char-anon`](https://go.cs61a.org/char-anon)
 
-- 1-on-1 Appointments: [`go.cs61a.org/char-advice`](http://go.cs61a.org/char-advice)
+- 1-on-1 Appointments: [`go.cs61a.org/char-advice`](https://go.cs61a.org/char-advice)
 
 #### Lectures
 

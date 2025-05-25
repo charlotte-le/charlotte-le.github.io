@@ -64,7 +64,7 @@ params:
     images: ["papermod-cover.png"]
     socialIcons: # optional
           - name: "email"
-            url: "mailto:charlottle@berkeley.edu"
+            url: "mailto:charlottele@berkeley.edu"
           - name: "linkedin"
             url: "https://www.linkedin.com/in/charlotte-le/"
           - name: "googlescholar"
@@ -87,7 +87,7 @@ params:
           url: "https://autolab.berkeley.edu/"
         - name: "CS 61A"
           url: "https://cs61a.org/"
-      email: "charlottle@berkeley.edu"
+      email: "charlottele@berkeley.edu"
       jobTitle: "Machine Learning Engineer and Researcher"
       sameAs:
         - "https://www.linkedin.com/in/charlotte-le/"

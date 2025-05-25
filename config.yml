@@ -40,8 +40,6 @@ languages:
                   url: research/
                   weight: 15
 
-
-
 outputs:
     home:
         - HTML
@@ -64,6 +62,13 @@ params:
     ShowToc: false
     # comments: false
     images: ["papermod-cover.png"]
+    socialIcons: # optional
+          - name: "email"
+            url: "mailto:charlottle@berkeley.edu"
+          - name: "linkedin"
+            url: "https://www.linkedin.com/in/charlotte-le/"
+          - name: "googlescholar"
+            url: "https://scholar.google.com/citations?user=3lAva4oAAAAJ&hl=en" 
 
     schema:
       publisherType: "Person"
@@ -97,7 +102,7 @@ params:
         enabled: true
         title: Charlotte Le
         email: "charlottele [at] berkeley [dot] com"
-        subtitle: "I am developing machine learning infrastructure at Slack.
+        subtitle: "Hi! I'm developing machine learning infrastructure at Slack, working out of New York City.
         
         &nbsp;
    
@@ -107,7 +112,7 @@ params:
 
         I received my Bachelor's degree in computer science with EECS honors from UC Berkeley,  
         where I also minored in politics, philosophy, and law.
-        During my time there, I conducted research with the Berkeley Artificial Intelligence Research (BAIR) lab and served as an instructor for CS 61A."
+        During my time there, I conducted research with the Berkeley Artificial Intelligence Research (BAIR) lab and taught as a lecturer for CS 61A."
     
         # buttons:
         #     - name: Experience
@@ -117,6 +122,8 @@ params:
         #     - name: Research
         #       url: research/
     
+        imageUrl: "https://media.licdn.com/dms/image/v2/D5603AQFKcJkJimSVqA/profile-displayphoto-shrink_800_800/B56ZUXrJcMGsAc-/0/1739858946012?e=1753920000&v=beta&t=fLqu3ecJhcMT2gTluy-gTMDEeAIj7MsbDkj3fz25zYE"
+        
 
 markup:
     goldmark:

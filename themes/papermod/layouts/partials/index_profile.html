@@ -28,11 +28,11 @@
         {{- end }}
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
-        <h4 >{{ .email | markdownify }}</h4>
-        <br>
-        <span>{{ .subtitle | markdownify }}</span>
+        <!-- <h4 >{{ .email | markdownify }}</h4> -->
         {{- partial "social_icons.html" site.Params.socialIcons -}}
 
+        <br>
+        <span>{{ .subtitle | markdownify }}</span>
         {{- with .buttons }}
         <div class="buttons">
             {{- range . }}
@@ -42,6 +42,7 @@
             {{- end }}
         </div>
         {{- end }}
+        
     </div>
     {{- end}}
 </div>

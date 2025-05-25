@@ -7,13 +7,39 @@
   "url": {{ site.BaseURL }},
   "description": {{ site.Params.description | plainify | truncate 180 | safeHTML }},
   "thumbnailUrl": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }},
+  "jobTitle": {{ site.Params.schema.jobTitle | plainify | truncate 180 | safeHTML }},
+  "email": "mailto:{{ site.Params.schema.email }}",
   "sameAs": [
     {{- if site.Params.schema.sameAs }}
       {{ range $i, $e := site.Params.schema.sameAs }}{{ if $i }}, {{ end }}{{ trim $e " " }}{{ end }}
     {{- else}}
       {{ range $i, $e := site.Params.SocialIcons }}{{ if $i }}, {{ end }}{{ trim $e.url " " }}{{ end }}
     {{- end}}
-  ]
+  ],
+  "affiliation": [
+    {{- range $i, $aff := site.Params.schema.affiliation -}}
+      {{- if $i }}, {{ end -}}
+      {
+        "@type": "Organization",
+        "name": "{{ $aff.name }}",
+        "url": "{{ $aff.url }}"
+      }
+    {{- end -}}
+  ],
+  "alumniOf": [
+  {{- range $i, $alum := site.Params.schema.alumniOf -}}
+    {{- if $i }}, {{ end -}}
+    {
+      "@type": "EducationalOrganization",
+      "name": "{{ $alum.name }}",
+      "url": "{{ $alum.url }}"
+    }
+  {{- end -}}
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ site.Params.schema.address }}"
+  },
 }
 </script>
 {{- else if (or .IsPage .IsSection) }}

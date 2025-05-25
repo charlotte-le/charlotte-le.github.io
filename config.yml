@@ -50,7 +50,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Charlotte Le"
+    description: "Developing machine learning infrastructure at Slack."
     disableThemeToggle: true
     defaultTheme: light
     ShowShareButtons: false
@@ -64,6 +64,33 @@ params:
     ShowToc: false
     # comments: false
     images: ["papermod-cover.png"]
+
+    schema:
+      publisherType: "Person"
+      name: "Charlotte Le"
+      description: "Developing machine learning infrastructure at Slack."
+      alumniOf: 
+        - name: "University of California, Berkeley"
+          url: "https://www.berkeley.edu/"
+      address: "New York, NY"
+      affiliation: 
+        - name: "Slack"
+          url: "https://slack.com"
+        - name: "Berkeley Artificial Intelligence Research Lab"
+          url: "https://bair.berkeley.edu/"
+        - name: "AUTOLab"
+          url: "https://autolab.berkeley.edu/"
+        - name: "CS 61A"
+          url: "https://cs61a.org/"
+      email: "charlottle@berkeley.edu"
+      jobTitle: "Machine Learning Engineer and Researcher"
+  
+      sameAs:
+        - "https://www.linkedin.com/in/charlotte-le/"
+        - "https://www.facebook.com/charlotteele/"
+        - "https://www.instagram.com/_charlottele/"
+        - "https://scholar.google.com/citations?user=3lAva4oAAAAJ&hl=en"
+
 
     profileMode:
         enabled: true

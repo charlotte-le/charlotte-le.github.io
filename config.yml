@@ -63,9 +63,9 @@ params:
     # comments: false
     images: ["papermod-cover.png"]
     assets:
-      favicon: "/static/favicon.ico"
-      favicon16x16: "/static/favicon.ico" 
-      favicon32x32: "/static/favicon.ico" 
+      favicon: "favicon.ico"
+      favicon16x16: "favicon-16x16.png" 
+      favicon32x32: "favicon-32x32.png" 
     socialIcons: # optional
           - name: "email"
             url: "mailto:charlottele@berkeley.edu"
@@ -126,7 +126,7 @@ params:
         #     - name: Research
         #       url: research/
     
-        imageUrl: "https://media.licdn.com/dms/image/v2/D5603AQFKcJkJimSVqA/profile-displayphoto-shrink_800_800/B56ZUXrJcMGsAc-/0/1739858946012?e=1753920000&v=beta&t=fLqu3ecJhcMT2gTluy-gTMDEeAIj7MsbDkj3fz25zYE"
+        imageUrl:  "favicon-32x32.png" 
         
 
 markup:

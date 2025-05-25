@@ -17,14 +17,14 @@
                 {{ else if .imageWidth }}
                     {{- $img = $img.Resize (printf "%dx" .imageWidth) }}
                 {{ else }}
-                    {{- $img = $img.Resize "150x150" }}
+                    {{- $img = $img.Resize "250x250" }}
                 {{- end }}
             {{- end }}
             <img src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}"
-                height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
+                height="{{ .imageHeight | default 250 }}" width="{{ .imageWidth | default 250 }}" />
         {{- else }}
         <img src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
-            height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
+            height="{{ .imageHeight | default 250 }}" width="{{ .imageWidth | default 250 }}" />
         {{- end }}
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>

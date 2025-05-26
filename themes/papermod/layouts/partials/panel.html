@@ -1,0 +1,46 @@
+<div class="panel">
+    <h2>{{ .title }}</h2>
+    <div class="panel-list">
+      {{ range .items }}
+        {{ if .url }}
+          <a href="{{ .url }}" class="panel-card panel-card-link">
+        {{ else }}
+          <div class="panel-card">
+        {{ end }}
+  
+          <h3>{{ .title }}</h3>
+  
+          {{ with .subtitles }}
+          {{ range . }}
+            <p class="subtitle subtitle-1">{{ .text }}</p>
+            {{ with .meta }}
+              <p class="subtitle subtitle-2">{{ . }}</p>
+            {{ end }}
+          {{ end }}
+          {{ end }}
+  
+          {{ with .tags }}
+          <div class="tags">
+            {{ range . }}
+              <span class="tag">{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+  
+          {{ with .description }}
+          <ul class="description-list">
+            {{ range . }}
+              <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          {{ end }}
+  
+        {{ if .url }}
+          </a>
+        {{ else }}
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  

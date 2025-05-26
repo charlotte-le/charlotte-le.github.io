@@ -15,9 +15,12 @@
     font-family: 'Fira Sans Bold', sans-serif;
 }
 
+.profile_inner p a {
+    color: #0303c2 !important; /* Google's link blue */
+  }
+
 .profile img {
     display: inline-table;
-    border-radius: 50%;
     pointer-events: none;
 }
 

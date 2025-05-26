@@ -14,41 +14,30 @@ draft: false
 
 #### Work
 
-- Slack (Salesforce)
-    - Machine Learning Engineer | August 2024 - Present
-    - Software Engineer Intern | Summer 2023
-- PlayStation (Sony)
-    - Software Engineer Intern | Summer 2022 
-- Bit Reboot
-    - Software Engineer | Fall 2021
-- Snoonu  (Qatar's first unicorn)
-    - Software Engineer Intern | Summer 2021
-
+- Slack (Salesforce) | *Machine Learning Engineer* | August 2024 - Present 
+- Slack (Salesforce) | *Software Engineer Intern* | Summer 2023
+- PlayStation (Sony) | *Software Engineer Intern* | Summer 2022
+- Snoonu | *Software Engineer Intern* | Summer 2021
 
 #### Service
-- Associated Students of the University of California (ASUC) | Office of Academic Affairs
-    - College of Computing, Data Science, and Society (CDSS) Liaison
-    - Director of Academic Planning 
-- United Nations | Commission on Crime Prevention and Criminal Justice
-    - [`E/CN.15/2019/15`](https://undocs.org/Home/Mobile?FinalSymbol=E%2F2019%2F30%2520&Language=E&DeviceType=Desktop&LangRequested=False)
+- College of Computing, Data Science, and Society (CDSS) | *Liaison Officer*
+- Associated Students of the University of California | *Director of Academic Planning*
+- United Nations Commission on Crime Prevention and Criminal Justice | [`E/CN.15/2019/15`](https://undocs.org/Home/Mobile?FinalSymbol=E%2F2019%2F30%2520&Language=E&DeviceType=Desktop&LangRequested=False)
+
+- FIFA World Cup 2022 | *Youth Ambassador*
 
 
-#### Organizations
-- Debate Society of Berkeley
-- Parliamentary Debate at Berkeley
-- BridgeUSA
-- Delta Gamma
+#### Education
+- Honors: High Distinction | EECS Honors | Phi Beta Kappa | Upsilon Pi Epsilon
 
-#### Honors
-- High Honors in Major
-- EECS Honors
-- Upsilon Pi Epsilon
-- Phi Beta Kappa
+- Organizations: Delta Gamma Sorority | Debate Society of Berkeley | Parliamentary Debate at Berkeley | BridgeUSA
+
 
 #### Miscellaneous
-- Sales | Code With Us
-- CTO | Cruuz | Berkeley SkyDeck Batch 12
-- Youth Ambassador | FIFA World Cup 2022
+- Code With Us | *Sales*
+
+- Cruuz | *CTO* | Berkeley SkyDeck Batch 12
+
 
 
 

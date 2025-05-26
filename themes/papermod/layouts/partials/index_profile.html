@@ -25,11 +25,21 @@
         {{- else }}
         <img src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}"
             height="{{ .imageHeight | default 250 }}" width="{{ .imageWidth | default 250 }}" />
+        
         {{- end }}
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <!-- <h4 >{{ .email | markdownify }}</h4> -->
-        {{- partial "social_icons.html" site.Params.socialIcons -}}
+
+        <p style="text-align: center; margin-top: 0rem;">
+            <a href="mailto:charlottele@berkeley.edu" target="_blank" rel="noopener">Email</a>
+            |
+            <a href="https://www.linkedin.com/in/charlotte-le/" target="_blank" rel="noopener">LinkedIn</a>
+            |
+            <a href="https://scholar.google.com/citations?user=3lAva4oAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+          </p>
+          
+        <!-- {{- partial "social_icons.html" site.Params.socialIcons -}} -->
 
         <br>
         <span>{{ .subtitle | markdownify }}</span>
@@ -41,8 +51,10 @@
             </a>
             {{- end }}
         </div>
-        {{- end }}
-        
+        {{- end }} 
+        <!-- {{ partial "panel.html" (dict "title" "Work Experience" "items" site.Data.work_experience) }}
+        {{ partial "panel.html" (dict "title" "Research Experience" "items" site.Data.research_experience) }}
+        {{ partial "panel.html" (dict "title" "Education" "items" site.Data.education) }} -->
     </div>
     {{- end}}
 </div>

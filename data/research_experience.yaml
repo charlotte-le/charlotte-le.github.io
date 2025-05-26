@@ -1,0 +1,27 @@
+- title: "Automating Deformable Gasket Assembly"
+  tags:
+    - "High Distinction"
+    - "EECS Honors"
+    - "Phi Beta Kappa"
+    - "Upsilon Pi Epsilon"
+
+- title: "FogROS2-Config: A Toolkit for Choosing Server Configurations for Cloud Robotics"
+  tags:
+    - "Delta Gamma Sorority"
+    - "Debate Society of Berkeley"
+    - "Parliamentary Debate at Berkeley"
+    - "BridgeUSA"
+    - "Associated Students of the University of California"
+
+- title: "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset"
+  subtitles:
+    - text : "IEEE International Conference on Automation Science and Engineering"
+      meta: "Summer 2021" 
+  tags:
+    - "Website"
+    - "Paper"
+
+- title: "Open X-Embodiment: Robotic Learning Datasets and RT-X Models"
+  description:
+    - "Free, high-res avatars for UI mockups."
+    - "Thoughtfully curated for creative needs."

@@ -90,7 +90,7 @@
 .post-content p,
 .post-content figure,
 .post-content ul {
-    margin-bottom: var(--content-gap);
+    margin-bottom: 0;
 }
 
 .post-content ol,

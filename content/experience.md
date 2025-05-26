@@ -48,7 +48,7 @@ draft: false
 #### Miscellaneous
 - Sales | Code With Us
 - CTO | Cruuz | Berkeley SkyDeck Batch 12
-- Youth Ambassador | FIFA World Cup 2024
+- Youth Ambassador | FIFA World Cup 2022
 
 
 

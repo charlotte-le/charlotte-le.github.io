@@ -16,6 +16,6 @@ draft: false
 #### Publications
 - *Automating Deformable Gasket Assembly.* IEEE International Conference on Automation Science and Engineering.
 - *DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset.* Robotics: Science and Systems (RSS).
-- *FogROS2-Sky: Optimizing Latency and Cost for Multi-Cloud Robot Applications.* Kaiyuan Chen, Kush Hari, Rohil Khare, Charlotte Le, Trinity Chung, Jaimyn Drake, Jeffrey Ichnowski, John Kubiatowicz, Ken Goldberg. IEEE International Conference on Robotics and Automation (ICRA).
+- *FogROS2-Sky: Optimizing Latency and Cost for Multi-Cloud Robot Applications.* IEEE International Conference on Robotics and Automation (ICRA).
 - *Open X-Embodiment: Robotic Learning Datasets and RT-X Models.* IEEE International Conference on Robotics and Automation (ICRA).
 

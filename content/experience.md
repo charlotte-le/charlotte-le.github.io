@@ -34,7 +34,7 @@ draft: false
 
 
 #### Miscellaneous
-- Code With Us | *Sales*
+- Bit Reboot | *Sales*
 
 - Cruuz | *CTO* | Berkeley SkyDeck Batch 12
 

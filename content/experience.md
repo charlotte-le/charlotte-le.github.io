@@ -20,6 +20,7 @@ draft: false
 - Snoonu | *Software Engineer Intern* | Summer 2021
 
 #### Service
+- Salesforce Employee Impact Council  | *Member*
 - College of Computing, Data Science, and Society (CDSS) | *Liaison Officer*
 - Associated Students of the University of California | *Director of Academic Planning*
 - United Nations Commission on Crime Prevention and Criminal Justice | [`E/CN.15/2019/15`](https://undocs.org/Home/Mobile?FinalSymbol=E%2F2019%2F30%2520&Language=E&DeviceType=Desktop&LangRequested=False)
